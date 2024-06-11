@@ -1,4 +1,5 @@
 # js-project
+
 First git repository.
 <br>
-Author Sunny Rajak
+Sunny Rajak age 22
